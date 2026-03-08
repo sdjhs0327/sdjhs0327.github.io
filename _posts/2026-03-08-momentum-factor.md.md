@@ -20,13 +20,13 @@ This note explores a simple momentum strategy and outlines a basic backtest fram
 A common definition of momentum is:
 
 $$
-Momentum_i = \frac{P_{t} - P_{t-k}}{P_{t-k}}
+Momentum_i = \frac{P_t - P_{t-k}}{P_{t-k}}
 $$
 
 where
 
-- $P_t$ : current price
-- $P_{t-k}$ : price k periods ago
+- $P_t$: current price
+- $P_{t-k}$: price k periods ago
 
 Typical lookback windows:
 
