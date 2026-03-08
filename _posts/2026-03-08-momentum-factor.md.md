@@ -1,11 +1,9 @@
-
 ---
-title: Momentum Factor Research
+title: "Momentum Factor Research"
 date: 2026-03-08
 categories: [factor]
 tags: [quant, momentum]
 ---
-# Momentum Factor Research
 
 ## Overview
 
