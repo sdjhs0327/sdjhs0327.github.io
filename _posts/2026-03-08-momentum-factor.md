@@ -56,3 +56,4 @@ def momentum_signal(prices, lookback=252):
     returns = prices.pct_change(lookback)
     ranks = returns.rank(axis=1, pct=True)
     return ranks
+```
