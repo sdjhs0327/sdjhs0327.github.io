@@ -3,7 +3,7 @@ title: "Momentum Factor Research"
 date: 2026-03-08
 categories: [factor]
 tags: [quant, momentum]
-toc:true
+toc: true
 ---
 
 ## Overview
