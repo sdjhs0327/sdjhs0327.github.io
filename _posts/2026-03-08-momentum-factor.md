@@ -4,6 +4,7 @@ date: 2026-03-08
 categories: [factor]
 tags: [quant, momentum]
 toc: true
+math: true
 ---
 
 ## Overview
