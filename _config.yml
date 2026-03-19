@@ -16,7 +16,7 @@ timezone:
 
 title: Hans # the main title
 
-tagline: ML 퀀트 리서치 블로그 # it will display as the subtitle
+tagline: ML Quant research blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
